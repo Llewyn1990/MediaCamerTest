@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaCamerTest</string>
+    <string name="open_recorder">打开录像</string>
+    <string name="record_video">录取视频</string>
+    <string name="stop_record_video">停止录取</string>
+</resources>
+
